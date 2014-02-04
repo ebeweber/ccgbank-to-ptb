@@ -9,10 +9,10 @@ import pdb
 import glob
 
  # Point this at the PTB Corpus
-PTB_DIR  = "/Users/matthewebeweber/Documents/DAN/combined"
+PTB_DIR  = ""
 
 # Point this at the new directory
-CCG_DIR = "/Users/matthewebeweber/Documents/DAN/ccg_converted"
+CCG_DIR = ""
 
 def main():
     # Grab all the files in the directory
