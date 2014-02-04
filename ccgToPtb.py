@@ -2,7 +2,7 @@
 #
 # A simple program to convert the PTB to the CCGBank format for simplicity and
 # easy testing of both in experiments without having to change as much code.
-#
+# Didn't end up using, but still useful.
 
 import re
 import pdb
